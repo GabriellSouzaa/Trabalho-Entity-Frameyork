@@ -1,0 +1,125 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Trabalho_23_08
+build_property.RootNamespace = Trabalho_23_08
+build_property.ProjectDir = D:\Linguagem-de-Programação\2-Semestre\Trabalho-Entity-Framework\Trabalho-23-08\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Linguagem-de-Programação\2-Semestre\Trabalho-Entity-Framework\Trabalho-23-08
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Linguagem-de-Programação/2-Semestre/Trabalho-Entity-Framework/Trabalho-23-08/Views/Alunos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Linguagem-de-Programação/2-Semestre/Trabalho-Entity-Framework/Trabalho-23-08/Views/Alunos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Linguagem-de-Programação/2-Semestre/Trabalho-Entity-Framework/Trabalho-23-08/Views/Alunos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Linguagem-de-Programação/2-Semestre/Trabalho-Entity-Framework/Trabalho-23-08/Views/Alunos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Linguagem-de-Programação/2-Semestre/Trabalho-Entity-Framework/Trabalho-23-08/Views/Alunos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Linguagem-de-Programação/2-Semestre/Trabalho-Entity-Framework/Trabalho-23-08/Views/Atendimentos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXRlbmRpbWVudG9zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Linguagem-de-Programação/2-Semestre/Trabalho-Entity-Framework/Trabalho-23-08/Views/Atendimentos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXRlbmRpbWVudG9zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Linguagem-de-Programação/2-Semestre/Trabalho-Entity-Framework/Trabalho-23-08/Views/Atendimentos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXRlbmRpbWVudG9zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Linguagem-de-Programação/2-Semestre/Trabalho-Entity-Framework/Trabalho-23-08/Views/Atendimentos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXRlbmRpbWVudG9zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Linguagem-de-Programação/2-Semestre/Trabalho-Entity-Framework/Trabalho-23-08/Views/Atendimentos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXRlbmRpbWVudG9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Linguagem-de-Programação/2-Semestre/Trabalho-Entity-Framework/Trabalho-23-08/Views/Cursoes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Vyc29lc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Linguagem-de-Programação/2-Semestre/Trabalho-Entity-Framework/Trabalho-23-08/Views/Cursoes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Vyc29lc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Linguagem-de-Programação/2-Semestre/Trabalho-Entity-Framework/Trabalho-23-08/Views/Cursoes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Vyc29lc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Linguagem-de-Programação/2-Semestre/Trabalho-Entity-Framework/Trabalho-23-08/Views/Cursoes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Vyc29lc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Linguagem-de-Programação/2-Semestre/Trabalho-Entity-Framework/Trabalho-23-08/Views/Cursoes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Vyc29lc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Linguagem-de-Programação/2-Semestre/Trabalho-Entity-Framework/Trabalho-23-08/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Linguagem-de-Programação/2-Semestre/Trabalho-Entity-Framework/Trabalho-23-08/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Linguagem-de-Programação/2-Semestre/Trabalho-Entity-Framework/Trabalho-23-08/Views/Salas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsYXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Linguagem-de-Programação/2-Semestre/Trabalho-Entity-Framework/Trabalho-23-08/Views/Salas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsYXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Linguagem-de-Programação/2-Semestre/Trabalho-Entity-Framework/Trabalho-23-08/Views/Salas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsYXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Linguagem-de-Programação/2-Semestre/Trabalho-Entity-Framework/Trabalho-23-08/Views/Salas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsYXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Linguagem-de-Programação/2-Semestre/Trabalho-Entity-Framework/Trabalho-23-08/Views/Salas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsYXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Linguagem-de-Programação/2-Semestre/Trabalho-Entity-Framework/Trabalho-23-08/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Linguagem-de-Programação/2-Semestre/Trabalho-Entity-Framework/Trabalho-23-08/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Linguagem-de-Programação/2-Semestre/Trabalho-Entity-Framework/Trabalho-23-08/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Linguagem-de-Programação/2-Semestre/Trabalho-Entity-Framework/Trabalho-23-08/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Linguagem-de-Programação/2-Semestre/Trabalho-Entity-Framework/Trabalho-23-08/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-pngv6jgen2
